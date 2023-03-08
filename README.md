@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thanat-Music
 - 👀 I’m interested in web-deveropment and machine learning
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning Nueral Network
 
 
 <!---
